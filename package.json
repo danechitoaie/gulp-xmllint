@@ -1,6 +1,6 @@
 {
   "name": "gulp-xmllint",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "XML linter plugin for Gulp",
   "main": "index.js",
   "repository": {
